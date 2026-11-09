@@ -1,0 +1,4 @@
+# Optional paper-style differentiable QNN development environment.
+# Install in Linux or WSL2; native Windows JAX support may vary by release.
+jax>=0.4.30
+optax>=0.2.3

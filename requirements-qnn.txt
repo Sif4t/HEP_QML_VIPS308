@@ -1,0 +1,4 @@
+-r requirements.txt
+qiskit==2.6.1
+qiskit-aer==0.18.2
+qiskit-ibm-runtime==0.51.0
